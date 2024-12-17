@@ -1,0 +1,8 @@
+{
+    "test_text": "Hello world!",
+    "test_image": {
+      "path": "earth.jpg",
+      "width": 300,
+      "height": 300
+    }
+  }

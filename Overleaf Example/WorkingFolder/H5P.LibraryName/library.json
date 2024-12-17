@@ -1,0 +1,25 @@
+{
+    "title": "Example template",
+    "description": "Displays an image and a text",
+    "majorVersion": 1,
+    "minorVersion": 0,
+    "patchVersion": 1,
+    "runnable": 1,
+    "author": "Amendor AS",
+    "license": "cc-by-sa",
+    "machineName": "H5P.LibraryName",
+    "coreApi": {
+        "majorVersion": 1,
+        "minorVersion": 0
+    },
+    "preloadedJs": [
+        {
+            "path": "code.js"
+        }
+    ],
+    "preloadedCss": [
+        {
+            "path": "style.css"
+        }
+    ]
+}

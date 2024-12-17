@@ -1,0 +1,17 @@
+
+[ 
+  { 
+    "label": "Text", 
+    "name": "test_text", 
+    "type": "text", 
+    "default": "Hello world!", 
+    "description": "This text will be shown when the package is displayed."
+  }, 
+  {
+    "label": "image",
+    "name": "test_image",
+    "type": "image",
+    "optional": true,
+    "description": "Image, optional."
+  }
+]
